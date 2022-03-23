@@ -1,0 +1,21 @@
+C:\Users\David\Desktop\ADO.NET new\1-stLesson\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe.config
+C:\Users\David\Desktop\ADO.NET new\1-stLesson\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe
+C:\Users\David\Desktop\ADO.NET new\1-stLesson\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.pdb
+C:\Users\David\Desktop\ADO.NET new\1-stLesson\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.exe
+C:\Users\David\Desktop\ADO.NET new\1-stLesson\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.pdb
+C:\Users\David\Desktop\ADO.NET new\Lessons\008_Updates\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe.config
+C:\Users\David\Desktop\ADO.NET new\Lessons\008_Updates\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.exe
+C:\Users\David\Desktop\ADO.NET new\Lessons\008_Updates\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.pdb
+C:\Users\David\Documents\Courses\ADO.NET new\Lessons\008_Updates\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe.config
+C:\Users\David\Documents\Courses\ADO.NET new\Lessons\008_Updates\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.exe
+C:\Users\David\Documents\Courses\ADO.NET new\Lessons\008_Updates\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.pdb
+C:\Users\David\Documents\Courses\ADO.NET new\Lessons\008_Updates\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe
+C:\Users\David\Documents\Courses\ADO.NET new\Lessons\008_Updates\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.pdb
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe.config
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.pdb
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.exe
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.pdb
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\Updates.MainForm.resources
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.csprojResolveAssemblyReference.cache

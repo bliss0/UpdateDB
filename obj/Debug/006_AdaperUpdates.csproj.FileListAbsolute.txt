@@ -1,0 +1,27 @@
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe.config
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.exe
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\008_Updates.pdb
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.exe
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\bin\Debug\008_Updates.pdb
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\006_AdaperUpdates.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\Updates.MainForm.resources
+C:\Users\David\Documents\Courses\ADO.NET\ADO.NET\Student\008_Updates\001_Updates\008_Updates\obj\Debug\006_AdaperUpdates.csproj.GenerateResource.Cache
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\bin\Debug\008_Updates.exe.config
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\bin\Debug\008_Updates.exe
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\bin\Debug\008_Updates.pdb
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\obj\Debug\006_AdaperUpdates.csproj.SuggestedBindingRedirects.cache
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\obj\Debug\Updates.MainForm.resources
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\obj\Debug\006_AdaperUpdates.csproj.GenerateResource.cache
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\obj\Debug\006_AdaperUpdates.csproj.CoreCompileInputs.cache
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\obj\Debug\008_Updates.exe
+C:\Users\kozha\OneDrive\Рабочий стол\001_Updates\008_Updates\obj\Debug\008_Updates.pdb
+E:\C#Projects\UpdateDB\bin\Debug\008_Updates.exe.config
+E:\C#Projects\UpdateDB\bin\Debug\008_Updates.exe
+E:\C#Projects\UpdateDB\bin\Debug\008_Updates.pdb
+E:\C#Projects\UpdateDB\obj\Debug\006_AdaperUpdates.csproj.AssemblyReference.cache
+E:\C#Projects\UpdateDB\obj\Debug\006_AdaperUpdates.csproj.SuggestedBindingRedirects.cache
+E:\C#Projects\UpdateDB\obj\Debug\Updates.MainForm.resources
+E:\C#Projects\UpdateDB\obj\Debug\006_AdaperUpdates.csproj.GenerateResource.cache
+E:\C#Projects\UpdateDB\obj\Debug\006_AdaperUpdates.csproj.CoreCompileInputs.cache
+E:\C#Projects\UpdateDB\obj\Debug\008_Updates.exe
+E:\C#Projects\UpdateDB\obj\Debug\008_Updates.pdb
